@@ -1,0 +1,2 @@
+Byte Genius is one of my first projects where i utilized html and css knowledge to build an blog website/page consisting of header, body and footer.
+the body consist of cards which incorporates image, author name, and tags using flex box properties.  
